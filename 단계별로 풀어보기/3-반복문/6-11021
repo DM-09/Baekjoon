@@ -1,6 +1,8 @@
-T = input()
+T = int(input())
+x = 0
 
 for i in range(T):
-    S = input()
-    R = S[0]
-    s = S[2:len(S)]
+    a, b = input().split()
+    a, b = int(a), int(b)
+    x = x + 1
+    print(f'Case #{x}: {a + b}')
