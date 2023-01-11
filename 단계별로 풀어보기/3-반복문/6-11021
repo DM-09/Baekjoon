@@ -1,0 +1,6 @@
+T = input()
+
+for i in range(T):
+    S = input()
+    R = S[0]
+    s = S[2:len(S)]
