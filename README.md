@@ -3,5 +3,5 @@
 My BeakJoon Codes
 
 ## My Profile(프로필)
-<a href='https://solved.ac/profile/dongmin'>Solved.ac</a><br>
-<a href='https://www.acmicpc.net/user/dongmin'>beakjoon</a>
+- <a href='https://solved.ac/profile/dongmin'>Solved.ac</a><br>
+- <a href='https://www.acmicpc.net/user/dongmin'>beakjoon</a>
