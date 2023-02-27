@@ -1,3 +1,4 @@
+'''
 with Ada.Text_IO;
 procedure Hello is begin
     Ada.Text_IO.Put_Line("Animal      Count");
@@ -8,3 +9,6 @@ procedure Hello is begin
     Ada.Text_IO.Put_Line("Goats          22");
     Ada.Text_IO.Put_Line("Steers          2");
 end Hello;
+'''
+
+# Ada로 출력해야하며 ''' '''는 무시하세요.
