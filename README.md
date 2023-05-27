@@ -10,7 +10,7 @@ My Beakjoon Codes<br> (<a href='https://www.acmicpc.net/'>Baekjoon</a>: Korean O
 
 - <a href='https://solved.ac/profile/dongmin'>Solved.ac</a><br>
 - <a href='https://www.acmicpc.net/user/dongmin'>baekjoon</a><br>
-(대회에서 푼 문제들은 <a href='https://github.com/happydm09/Beakjoon-Contest'>여기</a>)
+(대회에서 푼 문제들은 <a href='https://github.com/happydm09/Baekjoon-Contest'>여기</a>)
 <br>
 <details>
 <summary>스트릭 Streak</summary>
