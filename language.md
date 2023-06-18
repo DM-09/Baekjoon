@@ -18,4 +18,5 @@
 |<a href='https://www.acmicpc.net/problem/14337'>14337</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20V/14337'>Visual Basic</a>
 |<a href='https://www.acmicpc.net/problem/1809'>1809</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20V/1809'>Golfscript</a>
 |<a href='https://www.acmicpc.net/problem/2372'>2372</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20V/2372'>Ada</a>
-
+| | |
+|<a href='https://www.acmicpc.net/problem/1247'>1247</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20III/1247.py'>PyPy3</a>
