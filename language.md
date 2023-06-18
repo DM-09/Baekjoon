@@ -13,3 +13,4 @@
 |<a href='https://www.acmicpc.net/problem/2289'>2289</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Sliver%20I/2289'>Assembly (64bit)</a>
 |<a href='https://www.acmicpc.net/problem/2393'>2393</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20IV/2393'>Cobol</a>
 |<a href='https://www.acmicpc.net/problem/2321'>2321</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20III/2321'>Fortran</a>
+|<a href='https://www.acmicpc.net/problem/2387'>2387</a>|<a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20III/2387'>Algol 68</a>
