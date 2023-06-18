@@ -5,6 +5,8 @@ My Beakjoon Codes<br> (<a href='https://www.acmicpc.net/'>Baekjoon</a>: Korean O
     🌐Language: Korean(한국어)
 
 
+- <a href='https://github.com/DM-09/BaekjoonCode/blob/main/language.md'>Programing Language</a>
+
 - <a href='https://github.com/DM-09/BaekjoonCode/blob/main/%EC%A0%84%EC%B2%B4%20%EB%AC%B8%EC%A0%9C/Bronze%20V/README.md'>B5 All Solve</a>
 
 ## My Profile(프로필)
