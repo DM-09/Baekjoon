@@ -1,6 +1,6 @@
 # 백준 코드 - Python (Baekjoon code)
 백준 푼 문제들 입니다.
-My Beakjoon Codes<br> (<a href='https://www.acmicpc.net/'>Baekjoon</a>: Korean Online Judge)<br>
+My Baekjoon Codes<br> (<a href='https://www.acmicpc.net/'>Baekjoon</a>: Korean Online Judge)<br>
 
     🌐Language: Korean(한국어)
 
