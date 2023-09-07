@@ -17,4 +17,4 @@ for i in range(c):
     for j in getData(s):
         if len(j) > 1: words.append(j)
 
-print(sorted(words))
+print(sorted(words)[0])
