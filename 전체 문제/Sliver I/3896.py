@@ -23,3 +23,4 @@ for _ in range(int(input())):
             pre = i
 
         print(end - pre)
+
