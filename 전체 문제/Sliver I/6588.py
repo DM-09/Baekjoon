@@ -36,3 +36,4 @@ while 1:
         if BS(b, box) != -1: break
 
     print(f'{n} = {a} + {b}')
+
