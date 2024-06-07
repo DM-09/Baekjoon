@@ -1,6 +1,6 @@
-# 백준 코드 - Python (Baekjoon code)
-백준 푼 문제들 입니다.
-My Baekjoon Codes<br> (<a href='https://www.acmicpc.net/'>Baekjoon</a>: Korean Online Judge)<br>
+# Baekjoon
+백준 푼 문제들 입니다. <br>
+Solutions of Baekjoon Online Judge Problems
 
     🌐Language: Korean(한국어)
 
@@ -14,8 +14,7 @@ My Baekjoon Codes<br> (<a href='https://www.acmicpc.net/'>Baekjoon</a>: Korean O
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dongmin)](https://solved.ac/dongmin)
 
 - <a href='https://solved.ac/profile/dongmin'>Solved.ac</a><br>
-- <a href='https://www.acmicpc.net/user/dongmin'>baekjoon</a><br>
-(대회에서 푼 문제들은 <a href='https://github.com/happydm09/Baekjoon-Contest'>여기</a>)
+- <a href='https://www.acmicpc.net/user/dongmin'>Baekjoon</a><br>
 <br>
 <details>
 <summary>스트릭 Streak</summary>
