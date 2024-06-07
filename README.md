@@ -1,4 +1,4 @@
-# Baekjoon
+# Baekjoon 백준
 백준 푼 문제들 입니다. <br>
 Solutions of Baekjoon Online Judge Problems
 
